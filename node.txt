@@ -1,0 +1,6 @@
+npm install -g mongodb
+
+ "bson": "*",
+      "debug": "*"
+
+

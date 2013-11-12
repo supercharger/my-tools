@@ -1,6 +1,4 @@
-npm install -g mongodb
-
- "bson": "*",
-      "debug": "*"
-
-
+[
+{ "keys": ["shift+ctrl+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+{ "keys": ["ctrl+alt+s"], "command": "fresh" }
+]
